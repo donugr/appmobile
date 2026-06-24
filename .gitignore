@@ -1,0 +1,40 @@
+# Node.js
+node_modules/
+dist/
+build/
+coverage/
+.nyc_output/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Editors and OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Generated and temporary
+tmp/
+temp/
+*.log
+
+# Scripts and local tooling outputs
+scripts/
+
+# Package manager caches
+.npm/
+.pnpm-store/
+.yarn/
+src/
+package-lock.json
+package.json
